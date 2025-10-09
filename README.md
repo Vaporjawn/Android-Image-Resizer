@@ -1,5 +1,9 @@
 # Android Image Resizer
 
+[![Build Status](https://img.shields.io/travis/com/vaporjawn/react-native-image-resizer.svg?style=flat-square)](https://travis-ci.com/vaporjawn/react-native-image-resizer)
+[![Contributors](https://img.shields.io/github/contributors/vaporjawn/react-native-image-resizer.svg?style=flat-square)](https://github.com/vaporjawn/react-native-image-resizer/graphs/contributors)
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](./CODE_OF_CONDUCT.md)
+
 A React Native module that can create scaled versions of local images (also supports the assets library on iOS).
 |react-native| react-native-image-resizer|
 | --- | --- |
